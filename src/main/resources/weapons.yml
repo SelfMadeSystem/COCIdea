@@ -1,0 +1,18 @@
+# DEFAULT HAS TO BE HERE
+DEFAULT:
+  Stone: 1
+  Fence: 1
+  Entity: 1
+IRON_AXE:
+  Fence: 2
+DIAMOND_AXE:
+  Fence: 4
+IRON_PICKAXE:
+  Stone: 2
+DIAMOND_PICKAXE:
+  Stone: 4
+# name: delayInTicks
+DamageTypes:
+  Stone: 5
+  Fence: 5
+  Entity: 0

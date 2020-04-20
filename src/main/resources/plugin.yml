@@ -1,0 +1,10 @@
+name: COCIdea
+version: @version@
+main: uwu.smsgamer.cocidea.COCIdea
+authors: [Sms_Gamer_3808]
+description: COC Idea
+commands:
+  cocidea:
+    usage: yes
+    description: yes
+    aliases: []

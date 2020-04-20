@@ -1,0 +1,8 @@
+FENCE:
+  DamageType: Fence
+  Health: 10.0
+  Armor: 2.0
+STONE:
+  DamageType: Stone
+  Health: 10.0
+  Armor: 1.0
